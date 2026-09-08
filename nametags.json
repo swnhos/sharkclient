@@ -1,0 +1,6 @@
+{
+  "players": [
+    { "username": "sxnhos", "icon": "owner" },
+  ],
+  "icons": ["owner", "admin", "vip", "member"]
+}
