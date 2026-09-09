@@ -1,7 +1,7 @@
 {
   "players": [
     { "username": "sxnhos", "icon": "owner" },
-            { "username": "txlvez", "icon": "admin" },
+            { "username": "txlvez", "icon": "admin" }
   ],
   "icons": ["owner", "admin", "plus", "member"]
 }
