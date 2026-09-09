@@ -2,6 +2,7 @@
   "players": [
     { "username": "sxnhos", "icon": "owner" }
         { "username": "_dedoseis", "icon": "tiktok" }
+            { "username": "txlvez", "icon": "admin" }
   ],
   "icons": ["owner", "admin", "plus", "member", "tiktok"]
 }
